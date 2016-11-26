@@ -1,4 +1,6 @@
 # PuzzleGame
+
+This app was made during google workshop 'Applied CS With Android'.
 It is a game which allow user to take photo and shuffle it and solve it.
 
 
@@ -6,7 +8,7 @@ It is a game which allow user to take photo and shuffle it and solve it.
 |-------------------------------------------|--------------------------------------------|
 
 
-This app was made during google workshop 'Applied CS With Android'.
+
 
 What does it do?
 
